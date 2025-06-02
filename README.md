@@ -1,4 +1,3 @@
----
 
 # COVID-19 Data Analysis — Country-wise Overview
 
