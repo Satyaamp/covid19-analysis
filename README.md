@@ -1,5 +1,3 @@
-
-```markdown
 ---
 
 # COVID-19 Data Analysis — Country-wise Overview
@@ -51,20 +49,17 @@ It covers data cleaning, manipulation, and visualization using Python libraries 
 ## 📂 Repository Structure
 
 ```
-
 covid19-analysis/
 │
 ├── data/                 # Dataset files
 │   └── country_wise_latest.csv
 │
-│
-├── covid_analysis.ipynb  
+├── covid_analysis.ipynb  # Jupyter Notebook with analysis
 │
 ├── requirements.txt      # Required Python libraries
 │
 └── README.md             # Project documentation
-
-````
+```
 
 ---
 
@@ -83,20 +78,17 @@ covid19-analysis/
 ## 💡 How to Run
 
 1. Clone the repo:
-
    ```bash
    git clone https://github.com/Satyaamp/covid19-analysis.git
    cd covid19-analysis
-````
+   ```
 
 2. Install dependencies:
-
    ```bash
    pip install -r requirements.txt
    ```
 
 3. Open the Jupyter Notebook:
-
    ```bash
    jupyter notebook covid_analysis.ipynb
    ```
@@ -105,10 +97,10 @@ covid19-analysis/
 
 ## 📈 Key Insights
 
-* Overview of COVID-19 cases globally
-* Detailed analysis for India with visualizations
-* Correlations between confirmed, deaths, recovered, and active cases
-* Trends and patterns in new cases and deaths
+* Overview of COVID-19 cases globally  
+* Detailed analysis for India with visualizations  
+* Correlations between confirmed, deaths, recovered, and active cases  
+* Trends and patterns in new cases and deaths  
 
 ---
 
@@ -120,8 +112,8 @@ Feel free to open issues or submit pull requests to improve the analysis or add 
 
 ## 📞 Contact
 
-**Satyam Kumar**
-Email: [cbse821@gmail.com](mailto:cbse821@gmail.com)
+**Satyam Kumar**  
+Email: [cbse821@gmail.com](mailto:cbse821@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/satyaamp/](https://www.linkedin.com/in/satyaamp/)
 
 ---
@@ -129,5 +121,3 @@ LinkedIn: [https://www.linkedin.com/in/satyaamp/](https://www.linkedin.com/in/sa
 *Stay safe and keep learning!*
 
 ---
-
-```
