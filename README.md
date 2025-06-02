@@ -1,4 +1,3 @@
-Here’s your updated README with a **Sample Visualizations** section added to showcase your images clearly:
 
 ```markdown
 ---
@@ -56,13 +55,10 @@ It covers data cleaning, manipulation, and visualization using Python libraries 
 covid19-analysis/
 │
 ├── data/                 # Dataset files
-│   └── country\_wise\_latest.csv
+│   └── country_wise_latest.csv
 │
-├── images/               # Visualization images
-│   ├── confirmed\_vs\_deaths.png
-│   └── india\_covid\_trends.png
 │
-├── covid\_analysis.ipynb  # Jupyter Notebook with analysis
+├── covid_analysis.ipynb  
 │
 ├── requirements.txt      # Required Python libraries
 │
@@ -76,7 +72,7 @@ covid19-analysis/
 
 ### COVID-19 Case Distribution in India
 
-![Case Distribution](images/Case%20Distribution.png)
+![Case Distribution](images/Case_Distribution.png)
 
 ### COVID-19 Trends in India (Confirmed, Deaths, Recovered, Active)
 
@@ -135,5 +131,3 @@ LinkedIn: [https://www.linkedin.com/in/satyaamp/](https://www.linkedin.com/in/sa
 ---
 
 ```
-
----
